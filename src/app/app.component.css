@@ -1,0 +1,19 @@
+.header {
+    width: 100%;
+    background-color: blueviolet;
+    height: 100px;
+    text-align: center;
+}
+
+.contenido{
+    width: 100%;
+    background-color: rgb(226, 43, 165);
+    height: 400px;
+    text-align: center;
+}
+.footer{
+    width: 100%;
+    background-color: rgb(43, 226, 211);
+    height: 300px;
+    text-align: center;
+}
